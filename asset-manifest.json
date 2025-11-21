@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/React-Lab1-2-ITI/todo-app/static/css/main.3982bb5f.css",
-    "main.js": "/React-Lab1-2-ITI/todo-app/static/js/main.d12b7b08.js",
-    "index.html": "/React-Lab1-2-ITI/todo-app/index.html",
-    "main.3982bb5f.css.map": "/React-Lab1-2-ITI/todo-app/static/css/main.3982bb5f.css.map",
-    "main.d12b7b08.js.map": "/React-Lab1-2-ITI/todo-app/static/js/main.d12b7b08.js.map"
+    "main.css": "/React-Lab1-2-ITI/users-app/static/css/main.2b5aac3b.css",
+    "main.js": "/React-Lab1-2-ITI/users-app/static/js/main.d0544f9e.js",
+    "static/media/bootstrap-icons.woff?": "/React-Lab1-2-ITI/users-app/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/React-Lab1-2-ITI/users-app/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "index.html": "/React-Lab1-2-ITI/users-app/index.html",
+    "main.2b5aac3b.css.map": "/React-Lab1-2-ITI/users-app/static/css/main.2b5aac3b.css.map",
+    "main.d0544f9e.js.map": "/React-Lab1-2-ITI/users-app/static/js/main.d0544f9e.js.map"
   },
   "entrypoints": [
-    "static/css/main.3982bb5f.css",
-    "static/js/main.d12b7b08.js"
+    "static/css/main.2b5aac3b.css",
+    "static/js/main.d0544f9e.js"
   ]
 }
