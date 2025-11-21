@@ -1,0 +1,230 @@
+{
+  "personalInfo": {
+    "name": "Abdelghafaar Nashaat Abdelghafaar",
+    "title": "Full-Stack Web Developer",
+    "email": "abdelghafaarnashaat@gmail.com",
+    "phone": "+20 112 656 5444",
+    "location": "Cairo, Egypt",
+    "linkedin": "https://www.linkedin.com/in/abdelghafaar-nashaat/",
+    "github": "https://github.com/AbdoNashaat"
+  },
+  "education": [
+    {
+      "institution": "Information Technology Institute",
+      "location": "New Capital, Egypt",
+      "period": "July 2025 — November 2025",
+      "degree": "Full-Stack Web Development with PHP",
+      "grade": "Excellent Graduation Project",
+      "projectGrade": "A (Excellent)",
+      "honor": true
+    },
+    {
+      "institution": "Eastern Mediterranean University (EMU)",
+      "location": "Famagusta, Northern Cyprus",
+      "period": "September 2018 — May 2024",
+      "degree": "Bachelor's Degree in Computer Engineering",
+      "grade": "3.1 CGPA (Honor)",
+      "projectGrade": "A (Excellent)",
+      "honor": true
+    }
+  ],
+  "experience": [
+    {
+      "title": "Full-Stack Web Developer",
+      "company": "Hala Ticaret Ltd.",
+      "location": "Northern Cyprus",
+      "period": "May 2024 — July 2024",
+      "type": "Internship",
+      "techStack": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Bootstrap",
+        "Firebase"
+      ],
+      "description": [
+        "Developed a fully responsive multi-language (Turkish, English, Arabic) restaurant website with product listings, user accounts, ordering system, discounts, special items, and real-time order tracking.",
+        "Increased total orders by 10% through improved UX and reliable functionality.",
+        "Implemented secure backend using Firebase Authentication, Firestore, and Cloud Functions.",
+        "Designed clean minimalist UI with Bootstrap and vanilla JavaScript for optimal customer experience."
+      ]
+    },
+    {
+      "title": "Procurement Engineer",
+      "company": "MEP",
+      "location": "Cairo, Egypt",
+      "period": "September 2024 — December 2024",
+      "type": "Full-time",
+      "techStack": [
+        "Team Coordination",
+        "Project Management",
+        "Vendor Communication"
+      ],
+      "description": [
+        "Prepared and reviewed technical orders in coordination with engineering, finance, and vendors.",
+        "Managed requirements under tight deadlines, enhancing attention to detail and problem-solving skills.",
+        "Improved teamwork and organizational abilities by coordinating between diverse stakeholders."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Ketabi — Online Bookstore Platform",
+      "period": "Oct 2025 — Present",
+      "organization": "ITI Final Project",
+      "techStack": [
+        "MongoDB",
+        "Express.js",
+        "Angular",
+        "Node.js",
+        "Stripe",
+        "Paymob",
+        "PayPal"
+      ],
+      "description": [
+        "Collaborated in a 5-member team to build a full-stack multi-vendor bookstore supporting digital & physical books.",
+        "Developed backend modules for cart, orders, multi-payment checkout, coupons, publisher orders, and sales analytics.",
+        "Implemented secure payment flows with webhooks for stock updates and refunds.",
+        "Added full-text search and advanced filtering for better UX.",
+        "Managed GitHub workflow: branching, code reviews, conflict resolution."
+      ],
+      "liveLink": "https://ketabi.example.com",
+      "githubLink": "https://github.com/yourusername/ketabi"
+    },
+    {
+      "title": "Soukori — Full-Stack E-Commerce Website",
+      "period": "Sep 2025 — Oct 2025",
+      "organization": "ITI",
+      "techStack": [
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "Bootstrap",
+        "Firebase",
+        "Stripe",
+        "Express",
+        "Render"
+      ],
+      "description": [
+        "Built complete e-commerce platform with product browsing, cart, profile, order tracking, admin dashboard, and secure checkout.",
+        "Used Firebase Firestore for real-time data synchronization and Firebase Auth.",
+        "Integrated Stripe payments via Express server with webhooks for order & stock updates.",
+        "Deployed frontend on Firebase Hosting and backend on Render.",
+        "Responsive design with Bootstrap + custom CSS."
+      ],
+      "liveLink": "https://soukouri.web.app",
+      "githubLink": "https://github.com/yourusername/soukouri"
+    },
+    {
+      "title": "EzRecycle — Recycling Mobile App (Graduation Project)",
+      "period": "Sep 2023 — May 2024",
+      "organization": "Eastern Mediterranean University",
+      "role": "Product Manager & Lead Developer (4-member team)",
+      "techStack": [
+        "Flutter",
+        "Dart",
+        "Firebase",
+        "Google Maps API"
+      ],
+      "description": [
+        "Led development of cross-platform mobile app to promote recycling through gamification and tracking.",
+        "Implemented authentication, recycling station map with directions, points system, user profiles, and rewards.",
+        "Achieved Excellent (A) grade for graduation project."
+      ],
+      "githubLink": "https://github.com/yourusername/ezrecycle",
+      "playStoreLink": "https://play.google.com/store/apps/details?id=com.your.ezrecycle"
+    },
+    {
+      "title": "Volunteer Database Management System",
+      "period": "Sep 2023 — Jan 2024",
+      "organization": "EMU Course Project",
+      "techStack": [
+        "MySQL",
+        "RDBMS",
+        "ERD",
+        "Normalization (5NF)"
+      ],
+      "description": [
+        "Designed normalized relational database for volunteers, organizations, and projects.",
+        "Wrote complex SQL queries ensuring data integrity and performance."
+      ]
+    },
+    {
+      "title": "Embedded Baby Incubator Monitoring System",
+      "period": "Jan 2023 — Sep 2023",
+      "organization": "EMU Course Project",
+      "techStack": [
+        "Arduino",
+        "Sensors",
+        "Node-RED",
+        "Dashboard"
+      ],
+      "description": [
+        "Built IoT system with temperature/humidity sensors, alarms, and real-time dashboard using Node-RED.",
+        "Logged and visualized critical health data for neonatal incubators."
+      ]
+    }
+  ],
+  "skills": {
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "PHP",
+      "SQL",
+      "HTML",
+      "CSS",
+      "Dart"
+    ],
+    "frameworks": [
+      "Node.js",
+      "Express.js",
+      "Laravel",
+      "Angular",
+      "Flutter",
+      "Bootstrap"
+    ],
+    "databases": [
+      "MongoDB",
+      "MySQL",
+      "Firebase (Firestore)",
+      "Mongoose",
+      "RDBMS Design"
+    ],
+    "payment": [
+      "Stripe",
+      "Paymob",
+      "PayPal",
+      "Webhooks"
+    ],
+    "tools": [
+      "Git",
+      "GitHub",
+      "Firebase Hosting",
+      "Render",
+      "Postman",
+      "Arduino",
+      "Node-RED"
+    ],
+    "concepts": [
+      "RESTful APIs",
+      "Authentication (JWT, Firebase Auth)",
+      "Cart & Order Systems",
+      "Coupon & Discount Logic",
+      "Full-Text Search",
+      "Responsive Design",
+      "Database Normalization",
+      "CI/CD Basics",
+      "Team Collaboration & Code Reviews"
+    ]
+  },
+  "languages": [
+    {
+      "name": "English",
+      "level": "Fluent"
+    },
+    {
+      "name": "Arabic",
+      "level": "Native"
+    }
+  ]
+}
