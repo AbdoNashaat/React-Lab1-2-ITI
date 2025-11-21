@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Lab1-2-ITI/todo-app/static/css/main.3982bb5f.css",
+    "main.js": "/React-Lab1-2-ITI/todo-app/static/js/main.d12b7b08.js",
+    "index.html": "/React-Lab1-2-ITI/todo-app/index.html",
+    "main.3982bb5f.css.map": "/React-Lab1-2-ITI/todo-app/static/css/main.3982bb5f.css.map",
+    "main.d12b7b08.js.map": "/React-Lab1-2-ITI/todo-app/static/js/main.d12b7b08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3982bb5f.css",
+    "static/js/main.d12b7b08.js"
+  ]
+}
